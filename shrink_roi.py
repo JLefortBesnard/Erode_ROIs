@@ -1,3 +1,10 @@
+"""
+Erode the nifti ROIs
+2020
+Author:    
+        Jeremy Lefort-Besnard   jlefortbesnard (at) tuta (dot) io
+"""
+
 import nibabel as nib
 from scipy import ndimage
 import glob
